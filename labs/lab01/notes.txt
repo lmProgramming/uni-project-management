@@ -71,3 +71,15 @@ tekst do lewego, liczby do prawego
 ryzyka: problemy techniczne, złe narzędzia, choroba w zespole, zła komunikacja, nawet pożar, rozpad zespołu, zależność od tur finansowania
 założenia: nie dawać tu ryzyka, a np. - wynajęcie sali dla pracowników, że dostaniemy kredyt i kupimy laptopy
 podpisy
+
+sprawozdanie:
+bezosobo: zrobiono, założono
+forma merytoryczna i formatowanie ważne
+zrzuty ekranu do sprawka - podpisane
+taki diagram a taki WPS?
+napisać, że włączono opcje Numer w konspekcie, Zadanie sumaryczne projektu, Zadania sumaryczne
+dla każdego polecenia pisać, co trzeba było zrobić, jak zrobione jakie opcje kliknięte i zrzuty ekranu (podpisane)
+ctrl j - akapity (justowane)
+nie zostawiać pojedynczych liter na końcu linijki, używać do tego twardej spacji
+zero żargonu - stworzyliśmy, kliknęliśmy, liczba zamiast ilość
+najlepiej drukować z PDF
