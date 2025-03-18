@@ -83,3 +83,28 @@ ctrl j - akapity (justowane)
 nie zostawiać pojedynczych liter na końcu linijki, używać do tego twardej spacji
 zero żargonu - stworzyliśmy, kliknęliśmy, liczba zamiast ilość
 najlepiej drukować z PDF
+
+sprawozdanie:
+
+nigdy znaki zapytania w dni
+kondensować kolumny
+drukować dwustronnie, żeby były czytelne i zwarte (akapity, rysunki)
+w listowaniu:
+- SPACJA tekst
+- hejka naklejka
+
+sprawozdanie z zadania 2:
+(na zrzucie) kolumny mają być czytelne, tylko WBS - bez czasu trwania, rozpoczęcia, zakończenia
+nie opisujemy szczegółow typu "włączenie konspektu/zadania sumarycznego"
+bez gantt sama kolumna
+
+sprawozdanie z zadania 3:
+poprawny czas rozpoczęcia
+dać z parę podzadań
+zrzut z datami i wykresem gantt (koniecznie razem)
+rozpoczęcie i zakończenie
+
+sprawozdanie z zadania 4:
+dodatkowo
+tekst i zrzut ekranu kalendarza
+zrzut arkuszu zasobów żeby było widać że kalendarz przypisany
