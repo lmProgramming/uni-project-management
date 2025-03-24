@@ -43,7 +43,27 @@ można jeszcze jeden slajd z "Dziękujemy", 0 próśb o pytania
 bez błędów ortograficznych i żargonu, np. "celem jest coś **stworzyć**", "odpalić", "klikać" - wybieramy opcję
 z racji prowadzącego na sali, trzeba używać "proszę państwa" zamiast "wy"
 lepiej przesłać wcześniej prezentację w celu dodatkowej poprzedniej weryfikacji
+liczba slajdów!!
+metodyka vs metodologia
 
+sprawozdanie:
+bezosobo: zrobiono, założono
+forma merytoryczna i formatowanie ważne
+zrzuty ekranu do sprawka - podpisane
+taki diagram a taki WPS?
+napisać, że włączono opcje Numer w konspekcie, Zadanie sumaryczne projektu, Zadania sumaryczne
+dla każdego polecenia pisać, co trzeba było zrobić, jak zrobione jakie opcje kliknięte i zrzuty ekranu (podpisane)
+ctrl j - akapity (justowane)
+nie zostawiać pojedynczych liter na końcu linijki, używać do tego twardej spacji
+zero żargonu - stworzyliśmy, kliknęliśmy, liczba zamiast ilość
+najlepiej drukować z PDF
+nigdy znaki zapytania w dni
+kondensować kolumny
+drukować dwustronnie, żeby były czytelne i zwarte (akapity, rysunki)
+w listowaniu:
+- SPACJA tekst
+- hejka naklejka
+odwołania do rysunków?
 
 lista 1: 
 wybrać A i stworzyć tylko kartę projektu do niego + wydrukować
@@ -72,26 +92,8 @@ ryzyka: problemy techniczne, złe narzędzia, choroba w zespole, zła komunikacj
 założenia: nie dawać tu ryzyka, a np. - wynajęcie sali dla pracowników, że dostaniemy kredyt i kupimy laptopy
 podpisy
 
-sprawozdanie:
-bezosobo: zrobiono, założono
-forma merytoryczna i formatowanie ważne
-zrzuty ekranu do sprawka - podpisane
-taki diagram a taki WPS?
-napisać, że włączono opcje Numer w konspekcie, Zadanie sumaryczne projektu, Zadania sumaryczne
-dla każdego polecenia pisać, co trzeba było zrobić, jak zrobione jakie opcje kliknięte i zrzuty ekranu (podpisane)
-ctrl j - akapity (justowane)
-nie zostawiać pojedynczych liter na końcu linijki, używać do tego twardej spacji
-zero żargonu - stworzyliśmy, kliknęliśmy, liczba zamiast ilość
-najlepiej drukować z PDF
 
-sprawozdanie:
-
-nigdy znaki zapytania w dni
-kondensować kolumny
-drukować dwustronnie, żeby były czytelne i zwarte (akapity, rysunki)
-w listowaniu:
-- SPACJA tekst
-- hejka naklejka
+LISTA 1
 
 sprawozdanie z zadania 2:
 (na zrzucie) kolumny mają być czytelne, tylko WBS - bez czasu trwania, rozpoczęcia, zakończenia
@@ -108,3 +110,23 @@ sprawozdanie z zadania 4:
 dodatkowo
 tekst i zrzut ekranu kalendarza
 zrzut arkuszu zasobów żeby było widać że kalendarz przypisany
+
+Kaskadowe:
+Faza
+Etap
+Zadania
+
+Faza1	1
+Etap1...
+Etap2...
+			2
+				3
+
+Iteracyjno-przyrostowa (od-do)
+Iteracja 1 | od | do | il dni | kamień milowy
+...
+...
+
+I1	1
+I2		2
+I3			3
