@@ -5,8 +5,6 @@
 		Autorzy
 Kurs...
 
-
-
 2. slajd
 
 Agenda
@@ -92,7 +90,6 @@ ryzyka: problemy techniczne, złe narzędzia, choroba w zespole, zła komunikacj
 założenia: nie dawać tu ryzyka, a np. - wynajęcie sali dla pracowników, że dostaniemy kredyt i kupimy laptopy
 podpisy
 
-
 LISTA 1
 
 sprawozdanie z zadania 2:
@@ -123,10 +120,28 @@ Etap2...
 				3
 
 Iteracyjno-przyrostowa (od-do)
-Iteracja 1 | od | do | il dni | kamień milowy
+Iteracja 1 | od | do | ilość dni | kamień milowy KM
+(czyli każda iteracja może mieć inny czas trwania)
 ...
 ...
 
 I1	1
 I2		2
 I3			3
+
+Zwinne
+każdy sprint po tyle samo czasu (np. tydzień lub 2)
+wiadomo kto które zadanie robi, codziennie standup, zadania krótkie
+
+Sprint1		1 (zadanie x, y, z...)
+				2
+					3
+
+Lista 2:
+
+z 7 iteracji to ok
+nie musi być idealnie po kolei, niektóre rzeczy mogą być na raz
+od kiedy do kiedy każda iteracja
+"iteracja 1 - analiza" - nazwy iteracji, ile dni, kamień milowy - "przekazanie dokumentu analizy"
+na następne zajęcia - 1.1 do 1.4
+1.5 wyświetlić kolumnę poprzedniki
