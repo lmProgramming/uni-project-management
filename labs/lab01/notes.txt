@@ -61,7 +61,10 @@ drukować dwustronnie, żeby były czytelne i zwarte (akapity, rysunki)
 w listowaniu:
 - SPACJA tekst
 - hejka naklejka
-odwołania do rysunków?
+odwołania do rysunków: Zrobić x y [Rysunek 1.]
+ZAWSZE nr wierszy xd czyli id
+kolejność nazwisko imię
+data zakończenia projektu?
 
 lista 1: 
 wybrać A i stworzyć tylko kartę projektu do niego + wydrukować
