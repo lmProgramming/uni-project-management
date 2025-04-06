@@ -1,6 +1,0 @@
-najważniejsza ścieżka krytyczna
-jak kiedyś obliczało się to ręcznie
-jakieś tam przykłady na eportalu
-szacowanie ile zadań jest w ścieżce krytycznej o co chodzi??
-
-prawy przycisk myszy na diagramie sieciowym - lekko dokładniej to omówić

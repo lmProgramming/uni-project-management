@@ -166,3 +166,5 @@ Ustalono iteracje:
 	Iteracja 1: Projekt od do, ile dni
 		KM: co w jakim dniu
 Nie rozdzielać analizy/projektu na wiele iteracji
+
+spytać się, czy użytkownicy to zasób
