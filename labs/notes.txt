@@ -56,15 +56,26 @@ nie zostawiać pojedynczych liter na końcu linijki, używać do tego twardej sp
 zero żargonu - stworzyliśmy, kliknęliśmy, liczba zamiast ilość
 najlepiej drukować z PDF
 nigdy znaki zapytania w dni
-kondensować kolumny
+kondensować kolumny zgodnie z instrukcją drukowania
 drukować dwustronnie, żeby były czytelne i zwarte (akapity, rysunki)
 w listowaniu:
 - SPACJA tekst
 - hejka naklejka
-odwołania do rysunków: Zrobić x y [Rysunek 1.]
+odwołania do rysunków: Zrobiono x y [Rysunek 1.]
 ZAWSZE nr wierszy xd czyli id
 kolejność nazwisko imię
 data zakończenia projektu?
+nie trzeba pisać każdego małego kroczku?
+Założony nowy projekt o nazwie ..., ustalono:
+data rozpoczęcia, 
+data zakończenia, 
+liczba dni, 
+kamienie milowe - nazwa i data
+zrzut ekranu: na rysunku 1 jest okno informacje o projekcie
+2: statystyki
+3: zasoby...
+jak kalendarz robimy, to założenia: dla kogo, jaki kalendarz, itd
+do każdego założenia zrzut ekranu
 
 lista 1: 
 wybrać A i stworzyć tylko kartę projektu do niego + wydrukować
@@ -142,9 +153,16 @@ Sprint1		1 (zadanie x, y, z...)
 
 Lista 2:
 
-z 7 iteracji to ok
+z 5-7 iteracji to ok
 nie musi być idealnie po kolei, niektóre rzeczy mogą być na raz
 od kiedy do kiedy każda iteracja
 "iteracja 1 - analiza" - nazwy iteracji, ile dni, kamień milowy - "przekazanie dokumentu analizy"
 na następne zajęcia - 1.1 do 1.4
 1.5 wyświetlić kolumnę poprzedniki
+zrobić wykres na całą stronę
+zadanie 2. bla bla bla
+Liczba iteracji - np. 5
+Ustalono iteracje:
+	Iteracja 1: Projekt od do, ile dni
+		KM: co w jakim dniu
+Nie rozdzielać analizy/projektu na wiele iteracji
