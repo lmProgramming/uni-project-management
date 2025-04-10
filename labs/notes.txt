@@ -1,3 +1,7 @@
+# notatki
+
+## prezentacja
+
 1. slajd
 
 	Temat
@@ -166,5 +170,90 @@ Ustalono iteracje:
 	Iteracja 1: Projekt od do, ile dni
 		KM: co w jakim dniu
 Nie rozdzielać analizy/projektu na wiele iteracji
+Spis treści na początek
+Robić to w danym punkcie, co jest określone
+Pisać lepiej krócej niż dłużej
+Mają być 2 kalendarze: np. 1 standardowy dla projektu i jakiś dodatkowy dla kogoś
+
+1.1 kalendarz: ustalono kalendarz...
+- nazwa
+- dni godziny
+- wyjątki
+czyli wpisać standardowe dane np.
+
+1.2 info o projekcie: 
+(Najlepiej w punktach)
+- początek projektu
+- koniec
+- ile dni
+- nazwa kalendarza (jeszcze raz)
+- liczba iteracji
+- koszt (sprawozdanie jest z GOTOWEGO projektu)
+dwa zrzuty: informacje o projekcie I statystyki
+
+1.3 ustalono zespół...
+tylko pracownicy (nazwy krótkie np. kierownik zamiast kierownik projektu)
+sposób rozliczania, stawki
+ustalono kalendarz...
+jak w 1.1
+zrzut ekranu kalendarza
+zrzut całego arkusza zasobów (żeby kalendarze przypisane było widać??)
+
+1.4 ustalono 5 iteracji:
+1 zrzut z samych zadań sumarycznych - schować podrzędne zadania
+Iteracja 1 - Projektowanie
+	- początek
+	- koniec
+	- ile dni
+	- kamień milowy (data i nazwa)
+	zrzut ekranu prawa i lewa strona i numery wierszy dla tej iteracji
+itd. do każdej zrzut ekranu każda tak samo!!
+ukryć resztę wierszy z innych iteracji
+/*
+na koniec 1.4:
+cały wykres Gantta (całość)
+można obrócić, ale dół zrzutu ma być po zewnętrznej stronie strony
+(prawa strona - dół po lewej)
+kolumny: koniecznie nazwa, poprzedniki, od kiedy, do kiedy, ile dni, czytelne paski baz zasobów?
+bardzo zwężać kolumny i wybrać czcionkę!!
+*/
+
+1.5
+chociaż raz każdy z tych 
+RR
+jeden zadanie przykładowe + 1 zrzut (malutkie)
+nazwa... i pasek
+słowna interpretacja co znaczy RR
+ZR
+po 1 przykładzie do każdego?
+nie można zakończyć pracy poprzedniego systemu dopóki nie zrobi się nowego?
+wyłączenie starej bazy przed włączeniem nowej
+testowanie po odbiorze przez klienta?
+RR
+ZZ
+
+1.6 
+koniecznie kolumna typ
+przykłady po 1 zadaniu
+typ ograniczenia
+nazwy zadań + te 2 kolumne starczą (nie muszą być te z datami)
+
+1.7
+wykres Gantta śledzenie
+lepiej wydrukować kolorem
+na CZERWONO musi być ścieżka krytyczna
+liczba zadań krytycznych zrzut skąd mamy tę danę
+
+1.8
+układ -> ukryj wszystkie pola oprócz identyfikatora
+zrobić zrzuty tego jak wpisujemy daty filtrowania
+no i zrzut
+
+na koniec:
+cały wykres Gantta (całość)
+można obrócić, ale dół zrzutu ma być po zewnętrznej stronie strony
+(prawa strona - dół po lewej)
+kolumny: koniecznie nazwa, poprzedniki, od kiedy, do kiedy, ile dni, czytelne paski z zasobami
+bardzo zwężać kolumny i wybrać czcionkę!!
 
 spytać się, czy użytkownicy to zasób
