@@ -48,6 +48,8 @@ lepiej przesłać wcześniej prezentację w celu dodatkowej poprzedniej weryfika
 liczba slajdów!!
 metodyka vs metodologia
 
+## sprawozdanie
+
 sprawozdanie:
 bezosobo: zrobiono, założono
 forma merytoryczna i formatowanie ważne
@@ -71,9 +73,9 @@ kolejność nazwisko imię
 data zakończenia projektu?
 nie trzeba pisać każdego małego kroczku?
 Założony nowy projekt o nazwie ..., ustalono:
-data rozpoczęcia, 
-data zakończenia, 
-liczba dni, 
+data rozpoczęcia,
+data zakończenia,
+liczba dni,
 kamienie milowe - nazwa i data
 zrzut ekranu: na rysunku 1 jest okno informacje o projekcie
 2: statystyki
@@ -81,7 +83,8 @@ zrzut ekranu: na rysunku 1 jest okno informacje o projekcie
 jak kalendarz robimy, to założenia: dla kogo, jaki kalendarz, itd
 do każdego założenia zrzut ekranu
 
-lista 1: 
+## lista 1
+
 wybrać A i stworzyć tylko kartę projektu do niego + wydrukować
 1 do max 2 stron
 żelazny trójkąt: na górze koszt, prawy dolny czas, lewy dolny zakres, środek jakość (jakość najmniej wymierna)
@@ -100,7 +103,7 @@ wstępny zakres projektu: jakie dane gromadzić, jakie podstawowe opcje itd.
 harmonogram: od 04.04 - 11.04.2025 będzie projektowana baza danych...
 rozbić na harmonogram na tak 9 punktów na 3 miesiące? 1 punkt około 1 tydzień
 budżet - nie pisać Pracownicy - 50000
-pisać bardziej szczegółowo: 
+pisać bardziej szczegółowo:
 tekst do lewego, liczby do prawego
 		3 programistów x 2 miesiące x 5000 | 30000
 		1 grafik x 1 miesiąc x 1000        | xxxx
@@ -108,7 +111,7 @@ ryzyka: problemy techniczne, złe narzędzia, choroba w zespole, zła komunikacj
 założenia: nie dawać tu ryzyka, a np. - wynajęcie sali dla pracowników, że dostaniemy kredyt i kupimy laptopy
 podpisy
 
-LISTA 1
+### sprawozdanie
 
 sprawozdanie z zadania 2:
 (na zrzucie) kolumny mają być czytelne, tylko WBS - bez czasu trwania, rozpoczęcia, zakończenia
@@ -155,7 +158,7 @@ Sprint1		1 (zadanie x, y, z...)
 				2
 					3
 
-Lista 2:
+## lista 2
 
 z 5-7 iteracji to ok
 nie musi być idealnie po kolei, niektóre rzeczy mogą być na raz
@@ -175,13 +178,15 @@ Robić to w danym punkcie, co jest określone
 Pisać lepiej krócej niż dłużej
 Mają być 2 kalendarze: np. 1 standardowy dla projektu i jakiś dodatkowy dla kogoś
 
-1.1 kalendarz: ustalono kalendarz...
+### 1.1 kalendarz: ustalono kalendarz
+
 - nazwa
 - dni godziny
 - wyjątki
 czyli wpisać standardowe dane np.
 
-1.2 info o projekcie: 
+### 1.2 info o projekcie
+
 (Najlepiej w punktach)
 - początek projektu
 - koniec
@@ -191,7 +196,8 @@ czyli wpisać standardowe dane np.
 - koszt (sprawozdanie jest z GOTOWEGO projektu)
 dwa zrzuty: informacje o projekcie I statystyki
 
-1.3 ustalono zespół...
+### 1.3 ustalono zespół
+
 tylko pracownicy (nazwy krótkie np. kierownik zamiast kierownik projektu)
 sposób rozliczania, stawki
 ustalono kalendarz...
@@ -199,7 +205,8 @@ jak w 1.1
 zrzut ekranu kalendarza
 zrzut całego arkusza zasobów (żeby kalendarze przypisane było widać??)
 
-1.4 ustalono 5 iteracji:
+### 1.4 ustalono 5 iteracji
+
 1 zrzut z samych zadań sumarycznych - schować podrzędne zadania
 Iteracja 1 - Projektowanie
 	- początek
@@ -218,8 +225,9 @@ kolumny: koniecznie nazwa, poprzedniki, od kiedy, do kiedy, ile dni, czytelne pa
 bardzo zwężać kolumny i wybrać czcionkę!!
 */
 
-1.5
-chociaż raz każdy z tych 
+### 1.5
+
+chociaż raz każdy z tych
 RR
 jeden zadanie przykładowe + 1 zrzut (malutkie)
 nazwa... i pasek
@@ -232,22 +240,27 @@ testowanie po odbiorze przez klienta?
 RR
 ZZ
 
-1.6 
+### 1.6
+
 koniecznie kolumna typ
 przykłady po 1 zadaniu
 typ ograniczenia
 nazwy zadań + te 2 kolumne starczą (nie muszą być te z datami)
 
-1.7
+### 1.7
+
 wykres Gantta śledzenie
 lepiej wydrukować kolorem
 na CZERWONO musi być ścieżka krytyczna
 liczba zadań krytycznych zrzut skąd mamy tę danę
 
-1.8
+### 1.8
+
 układ -> ukryj wszystkie pola oprócz identyfikatora
 zrobić zrzuty tego jak wpisujemy daty filtrowania
 no i zrzut
+
+### koniec
 
 na koniec:
 cały wykres Gantta (całość)
@@ -256,4 +269,4 @@ można obrócić, ale dół zrzutu ma być po zewnętrznej stronie strony
 kolumny: koniecznie nazwa, poprzedniki, od kiedy, do kiedy, ile dni, czytelne paski z zasobami
 bardzo zwężać kolumny i wybrać czcionkę!!
 
-spytać się, czy użytkownicy to zasób
+spytać się, czy użytkownicy to zasób - nie, nie interesuje nas to kogo wystawią ci dla których robimy projekt
