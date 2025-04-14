@@ -83,6 +83,42 @@ zrzut ekranu: na rysunku 1 jest okno informacje o projekcie
 jak kalendarz robimy, to założenia: dla kogo, jaki kalendarz, itd
 do każdego założenia zrzut ekranu
 
+## instrukcje drukowania
+
+Wykres Gantta obejmuje zarówno arkusz z nazwami zadań i wyświetlanymi wybranymi
+kolumnami (lewe okno ekranu) oraz wykres harmonogramu (prawe okno ekranu), np.
+Zanim zostanie wykonany wydruk lub zrzut ekranu warto wykonać następujące działania:
+1 Zaznaczyć kolumnę z nazwami zadań i z menu podręcznego (lub na pasku
+Formatowanie) wybrać opcję Zawijaj tekst
+2 Dla wybranych (wszystkich) kolumn dostosować typ rozmiar czcionki
+(Zadanie/Czcionka)
+3 Dostosować szerokości kolumn, by istotne wartości były wyświetlane, ale kolumny
+nie były niepotrzebnie zbyt szerokie
+4 Ukryć kolumny nieistotne dla wydruku
+5 W prawym oknie ekranu
+a. dostosować skalę czasu, np. lata lub miesiące zamiast tygodnie
+b. dostosować powiększenie wykresu
+Pomimo wykonania tych wszystkich czynności, ze względu na dużą liczbę zadań i/lub
+długo trwający projekt, wydruk lub zapisanie całego harmonogramu na jednej stronie w
+pliku Word, może sprawiać trudność, gdyż harmonogram nie mieści się na kartce papieru
+formatu A4.
+Dostępne rozmiary papieru są zdefiniowane np. na stronach
+https://pl.wikipedia.org/wiki/Format_arkusza
+https://samart.pl/strefa-klienta/przydatne-informacje/wymiary-papieru-do-druku/
+Załóżmy, że harmonogram musimy wydrukować w formacie B3 (35,5 cm x 50 cm).
+W tym celu należy (czynność jednorazowa):
+1 zdefiniować potrzebny format, np. B3 (jeśli nie ma go na liście formatów
+oferowanych przez daną drukarkę)
+a. Panel sterowania/Urządzenia/Drukarki/ Właściwości serwera wydruku
+b. Karta Formularze/Utwórz nowy format
+c. Wpisujemy nazwę i wymiary
+Aby wydrukować (zapisać do pliku) harmonogram z MS Project należy:
+2 w MS Project dla danego projektu wybrać opcję Drukuj
+3 wybrać drukarkę Microsoft XPS Document Writer
+4 w ustawieniach strony wybrać zdefiniowany format B3
+5 zatwierdzić opcję Drukuj i zapisać wynik do pliku o podanej nazwie.
+Wygenerowany harmonogram można zapisać także jako obraz (np. tworząc jego zrzut).
+
 ## lista 1
 
 wybrać A i stworzyć tylko kartę projektu do niego + wydrukować
