@@ -6,3 +6,5 @@
 
 <https://www.student.unsw.edu.au/essay-writing-basics>
 <https://www.wordy.com/writers-workshop/how-to-write-an-academic-essay>
+
+dobre źródło - Project Management Book of Knowledge
