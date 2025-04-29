@@ -307,9 +307,49 @@ bardzo zwężać kolumny i wybrać czcionkę!!
 
 spytać się, czy użytkownicy to zasób - nie, nie interesuje nas to kogo wystawią ci dla których robimy projekt
 
-## lista 3
+## lista 3 - 13.5.2025
 
 roboczogodziny -> koszt
 
 raport koszt zasobów - nie tylko praca
 raporty mają skrótowe tytuły - wniknąć i dostosować je
+
+## lista 4 - 27.5.2025
+
+ZADANIE 1 -----------------------------------
+
+1.
+
+zmierzyć się z amortyzacją coś tam o zasób ponad 10k i mniej niż 10k?
+ma być przykład zasobu który musi być amortyzowany
+
+typy rezerwacji:
+zapotrzebowanie (obligatoryjny - trzeba mieć kompa dla programisty) vs żądany (opcjonalny/pożądany - a głośniki by się przydały)
+przydzielony vs proponowany
+widok -> obciążenie zadaniami, można tam to pozmieniać
+całe te kolumny widoczne na zrzucie
+
+6. 2 zrzuty, ale też interpretacja, czy koszt się zmienił, czas, czy nic nie dało
+
+7. WSZYSTKICH zasobów - praca i koszty i wszystkie
+zasób | stawka zasadnicza | l. godz dla st. zasad. | koszt st. zasad. | stawka nadgodzin | l. godz st. nadg. | koszt st. nadg. | koszt użycia | koszt całkowity
+coś tam czy warto zatrudnić nową osobę, żeby nie płacić nadgodziny
+raporty - można wyróżnić zasoby typu praca, ale na wykresach wszystkie typy zasobów mają być
+
+ZADANIE 2 -----------------------------------
+
+w Excel
+
+liczba porządkowa | czynnik | waga | waga * ocena | uzasadnienie (ma być porządne)
+
+pracochłonność wyliczyć i koszt końcowy
+śr. koszt robogodziny ustalić (50zł - 100zł za godzinę programisty?)
+
+## KPZPI - 3.6.2025
+
+dowiedzieć się jak najwięcej  
+dydaktyczny vs biznesowy  
+jaka typu aplikacja, jaka baza danych  
+harmonogram prac  
+
+10.6 i 17.6 - raczej można będzie nie przyjść (ale chyba będą nieobecności)
