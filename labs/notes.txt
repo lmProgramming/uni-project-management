@@ -345,6 +345,10 @@ liczba porządkowa | czynnik | waga | waga * ocena | uzasadnienie (ma być porz�
 pracochłonność wyliczyć i koszt końcowy
 śr. koszt robogodziny ustalić (50zł - 100zł za godzinę programisty?)
 
+### pytania
+
+czy inicjały mogą się powtarzać
+
 ## KPZPI - 3.6.2025
 
 dowiedzieć się jak najwięcej  
