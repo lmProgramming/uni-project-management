@@ -351,10 +351,22 @@ uzasadanić koszt robogodziny
 ### dodatkowe notatki
 
 interpretacja screena - np. zadania krytyczne długie? krótkie? ile w porównaniu do niekrytycznych? czy idzie jakoś skrócić?
+jeśli nastąpiła zmiana - zwiększył się (o ile dni?) - przedłużył się (o ile dni? z jakiej daty do jakiej?)
+jak koszt się zmienił?
+
+lepiej punktować niż długie zdania
+
+jak ścieżka krytyczna pokazana, to trzeba też cały wykres gantta pokazać?
+
+raporty dla każdego typu kosztu a nie jeden ogólny
+
+p1 zamiast programista na zrzutach
+
+1.6 - może być więcej krytycznych niż 1? to się w opcjach ustawia
 
 ### pytania
 
-czy inicjały mogą się powtarzać
+czy inicjały mogą się powtarzać -> nie, nie powinny, chyba, że nie ma znaczenia rozróżnienie
 
 ## lista 4 - 27.5.2025
 
