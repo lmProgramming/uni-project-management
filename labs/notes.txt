@@ -314,9 +314,9 @@ roboczogodziny -> koszt
 raport koszt zasobów - nie tylko praca
 raporty mają skrótowe tytuły - wniknąć i dostosować je
 
-## lista 4 - 27.5.2025
-
 ZADANIE 1 -----------------------------------
+
+metodą kaskadową można
 
 1.
 
@@ -338,16 +338,25 @@ raporty - można wyróżnić zasoby typu praca, ale na wykresach wszystkie typy 
 
 ZADANIE 2 -----------------------------------
 
-w Excel
+zostawić wbs z poprzedniej listy
+
+w Excel - w sensie nie w MS Project
 
 liczba porządkowa | czynnik | waga | waga * ocena | uzasadnienie (ma być porządne)
 
 pracochłonność wyliczyć i koszt końcowy
 śr. koszt robogodziny ustalić (50zł - 100zł za godzinę programisty?)
+uzasadanić koszt robogodziny
+
+### dodatkowe notatki
+
+interpretacja screena - np. zadania krytyczne długie? krótkie? ile w porównaniu do niekrytycznych? czy idzie jakoś skrócić?
 
 ### pytania
 
 czy inicjały mogą się powtarzać
+
+## lista 4 - 27.5.2025
 
 ## KPZPI - 3.6.2025
 
