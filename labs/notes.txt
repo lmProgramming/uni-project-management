@@ -394,6 +394,8 @@ można dać 15 podpunktów żeby mieć 30 punktów?
 przed i po: ile dni, jaki koszt
 pełny wykres całości?
 
+jak ma się policzyć liczbę zadań - niestandardowa funkcja "ile"
+
 ## KPZPI - 3.6.2025
 
 dowiedzieć się jak najwięcej  
