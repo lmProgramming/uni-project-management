@@ -82,6 +82,8 @@ zrzut ekranu: na rysunku 1 jest okno informacje o projekcie
 3: zasoby...
 jak kalendarz robimy, to założenia: dla kogo, jaki kalendarz, itd
 do każdego założenia zrzut ekranu
+zawsze dbać o czytelność
+w wykresach mają być czytelne, legenda, tytuły, wartości każdego bar
 
 ## instrukcje drukowania
 
@@ -374,6 +376,11 @@ harmonogram jako dodatkowy Rysunek
 
 trzeba go dokładnie odwzorować, żeby wyszedł identyczny wykres
 zapisać go jako plan bazowy i zrobić kilka kopii do każdego zadania
+
+praca w weekend też
+zmiana: z ilu o ile do ilu
+wszystkie dane dalej jak w poprzednich
+sprawozdanie na dysku chyba spoko
 
 każdy podpunkt nowy plik
 
